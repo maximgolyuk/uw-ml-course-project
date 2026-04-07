@@ -1,0 +1,31 @@
+y                                                         1.000000
+Hour_cos                                                  0.080534
+Owner                                                     0.046457
+Worked at home                                            0.031492
+Less than 15 minutes                                      0.025037
+Commute Interprovincial                                   0.021490
+Hour                                                      0.019921
+Median after-tax income of household in 2020 ($)          0.014687
+Car, truck or van - as a driver                           0.013629
+Total - Age groups of the population - 25% sample data    0.012594
+Month_cos                                                 0.011200
+Other method                                              0.011200
+Car, truck or van                                         0.009262
+Commute within CSD                                        0.008447
+Month                                                     0.007261
+Worked outside Canada                                     0.003794
+Renter                                                    0.001069
+15 to 29 minutes                                         -0.000157
+Walked                                                   -0.000282
+Month_sin                                                -0.000748
+Usual place of work                                      -0.001743
+60 minutes and over                                      -0.009724
+30 to 44 minutes                                         -0.016426
+Car, truck or van - as a passenger                       -0.017519
+45 to 59 minutes                                         -0.018587
+Commute Intraprovincial                                  -0.020708
+Public transit                                           -0.027112
+Hour_sin                                                 -0.030328
+Bicycle                                                  -0.047792
+Commute btn CSD                                                NaN
+Name: y, dtype: float64
